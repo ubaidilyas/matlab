@@ -1,3 +1,4 @@
+user,run,repetition,module,name,count,sumweights,mean,stddev,min,max,value_625
 1,General-0-20200620-21:14:22-20653,0,exercise_7.Users[0].pppg$o[0].channel,throughput:stats,30764,,1136.163368,165.7995864,315.6592135,2817.022324,1258.175049
 2,General-0-20200620-21:14:22-20653,0,exercise_7.Users[1].pppg$o[0].channel,throughput:stats,31271,,1185.853709,111.0732491,440,2783.751283,
 3,General-0-20200620-21:14:22-20653,0,exercise_7.Users[2].pppg$o[0].channel,throughput:stats,32436,,1336.874633,248.6150408,440,2854.851102,
@@ -6248,9 +6249,3 @@
 ,General-9-20200620-21:14:22-20656,9,exercise_7.Users[622].pppg$o[0].channel,throughput:stats,30813,,1263.149956,152.8196417,263.4269591,2416.962367,
 ,General-9-20200620-21:14:22-20656,9,exercise_7.Users[623].pppg$o[0].channel,throughput:stats,32081,,1194.701303,165.8690168,440,2497.632489,
 ,General-9-20200620-21:14:22-20656,9,exercise_7.Users[624].pppg$o[0].channel,throughput:stats,31848,,1156.18468,84.48679959,342.8718912,2416.042104,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
