@@ -28,8 +28,8 @@ network exercise_7
         }
         channel AccessRouterUserChannel extends DatarateChannel
         {
-            datarate = default(2 Mbps);
-            delay = default(40 ms);
+//            datarate = default(2 Mbps);
+//            delay = default(40 ms);
 
         }
         
